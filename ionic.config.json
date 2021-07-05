@@ -1,0 +1,7 @@
+{
+  "name": "VirtualPass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
